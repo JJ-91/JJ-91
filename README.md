@@ -6,7 +6,7 @@
 - Manufacturing process optimization and analysis (19.6~19.9)
 - Vehicle image recognition system development (19.9 ~ 20.2)
 ## 2020
-- 30-day oil demand forecast model (20.2 ~ 20.11)
+- 30-day oil demand time-series forecasting model (20.2 ~ 20.11)
 ## 2021
 - Voice Clone Engine (20.11 ~ 21.4)
 - 8 AI/ML analysis tasks for the automotive industry ( 21.4 ~ now)
